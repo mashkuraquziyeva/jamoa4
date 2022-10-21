@@ -1,5 +1,5 @@
-import pandas as pd
+from matplotlib import pyplot as plt
 import numpy as np
-import matplotlib.pyplot as plt
+import pandas as pd
 
-# test uchun fayl
+b_file = pd.read_csv('universitetlar_reytingi.csv')
