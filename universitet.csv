@@ -1,0 +1,6 @@
+world_rank,university_name,country,teaching,international,research,citations,income,total_score,num_students,student_staff_ratio,international_students,female_male_ratio,year
+"1,Harvard University,United States of America,99.7,72.4,98.7,98.8,34.5,96.1,""20,152"",8.9,25%,,2011"
+"2,California Institute of Technology,United States of America,97.7,54.6,98.0,99.9,83.7,96.0,""2,243"",6.9,27%,33 : 67,2011"
+"3,Massachusetts Institute of Technology,United States of America,97.8,82.3,91.4,99.9,87.5,95.6,""11,074"",9,33%,37 : 63,2011"
+"4,Stanford University,United States of America,98.3,29.5,98.1,99.2,64.3,94.3,""15,596"",7.8,22%,42 : 58,2011"
+"5,Princeton University,United States of America,90.9,70.3,95.4,99.9,-,94.2,""7,929"",8.4,27%,45 : 55,2011"
